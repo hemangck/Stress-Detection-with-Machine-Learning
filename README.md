@@ -1,4 +1,4 @@
-# Stress-Detection-with-Machine-Learning-
+# Stress-Detection-with-Machine-Learning
 
 ##### ● Utilized machine learning techniques to analyze Reddit posts and predict individuals' stress levels.
 ##### ●	Used NumPy, Pandas, Wordcloud, PIL, Matplotlib, Textblob, Nltk, Seaborn, Scikit-learn libraries, and Google Colab as a development platform.
